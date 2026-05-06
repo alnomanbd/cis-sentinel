@@ -121,7 +121,7 @@ echo "====================================================="
 echo " GENERATING FINAL REPORT "
 echo "====================================================="
 
-source report.sh
+source report/report.sh
 
 # ------------------------------
 # END MESSAGE
